@@ -1,0 +1,36 @@
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de Python creados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+*.log
+
+# Configuración de ampy
+.ampy
+
+# Archivos que subes a la ESP32
+main.py        # Si no quieres subir este archivo al repo
+boot.py        # Si tus configuraciones son locales
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Requerimientos generados
+requirements.txt
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+
+# Archivos de Visual Studio Code
+.vscode/
