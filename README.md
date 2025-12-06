@@ -3,15 +3,10 @@
 </h1>
 
 [![amgel-lab](https://img.shields.io/badge/amgel--lab-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/amgel-lab)
-
 [![Ernesto356](https://img.shields.io/badge/Ernesto356-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/Ernesto356)
-
 [![Ernesto356](https://img.shields.io/badge/josuecsmtz-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/josuecsmtz)
-
 [![Ernesto356](https://img.shields.io/badge/dNavarro--07-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/dNavarro-07)
-
 [![Ernesto356](https://img.shields.io/badge/AlejandroVB--23-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/AlejandroVB-23)
-
 [![Ernesto356](https://img.shields.io/badge/davidgerardoperez-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/davidgerardoperez525)
 
 
