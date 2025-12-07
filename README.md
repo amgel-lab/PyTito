@@ -1,6 +1,6 @@
-<h1>
-  <img src="pytitoverde.png" width="267" style="vertical-align:middle; margin-right:10px;" />
-</h1>
+![imagen](https://drive.google.com/uc?export=view&id=1gCzw5Ge5jaTUQWsgfThhsJiLZZya0EMt)
+
+
 
 [![amgel-lab](https://img.shields.io/badge/amgel--lab-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/amgel-lab)
 [![amgel-lab](https://img.shields.io/badge/Ernesto356-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/Ernesto356)
