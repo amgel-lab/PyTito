@@ -1,12 +1,6 @@
 <h1 style="margin: 0;">
-  <img src="https://raw.githubusercontent.com/usuario/repo/main/assets/pytitoverde.png"
-       width="75"
-       style="vertical-align:middle; margin-right:8px;">
+  <img src="assets/pytitoverde.png" width="275" style="vertical-align:middle; margin-right:8px;">
 </h1>
-
-
-
-
 
 [![amgel-lab](https://img.shields.io/badge/amgel--lab-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/amgel-lab)
 [![amgel-lab](https://img.shields.io/badge/Ernesto356-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/Ernesto356)
