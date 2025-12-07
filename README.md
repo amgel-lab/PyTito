@@ -1,6 +1,7 @@
 <h1 style="margin: 0;">
-  <img src=(https://drive.google.com/uc?export=view&id=1gCzw5Ge5jaTUQWsgfThhsJiLZZya0EMt) width="75" style="vertical-align:middle; margin-right:8px;">
+  <img src="assets/pytitoverde.png" width="75" style="vertical-align:middle; margin-right:8px;">
 </h1>
+
 
 
 
