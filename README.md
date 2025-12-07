@@ -1,6 +1,9 @@
 <h1 style="margin: 0;">
-  <img src="assets/pytitoverde.png" width="75" style="vertical-align:middle; margin-right:8px;">
+  <img src="https://raw.githubusercontent.com/usuario/repo/main/assets/pytitoverde.png"
+       width="75"
+       style="vertical-align:middle; margin-right:8px;">
 </h1>
+
 
 
 
