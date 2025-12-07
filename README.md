@@ -2,12 +2,12 @@
   <img src="pytitoverde.png" width="267" style="vertical-align:middle; margin-right:10px;" />
 </h1>
 
-[![amgel-lab](https://img.shields.io/badge/amgel--lab-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/amgel-lab)
-[![Ernesto356](https://img.shields.io/badge/Ernesto356-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/Ernesto356)
-[![Ernesto356](https://img.shields.io/badge/josuecsmtz-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/josuecsmtz)
-[![Ernesto356](https://img.shields.io/badge/dNavarro--07-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/dNavarro-07)
-[![Ernesto356](https://img.shields.io/badge/AlejandroVB--23-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/AlejandroVB-23)
-[![Ernesto356](https://img.shields.io/badge/davidgerardoperez-collaborator-brightgreen?logo=github&logoColor=white)](https://github.com/davidgerardoperez525)
+[![amgel-lab](https://img.shields.io/badge/amgel--lab-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/amgel-lab)
+[![amgel-lab](https://img.shields.io/badge/Ernesto356-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/Ernesto356)
+[![amgel-lab](https://img.shields.io/badge/josuecsmtz-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/josuecsmtz)
+[![amgel-lab](https://img.shields.io/badge/dNavarro--07-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/dNavarro-07)
+[![amgel-lab](https://img.shields.io/badge/AlejandroVB--23-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/AlejandroVB-23)
+[![amgel-lab](https://img.shields.io/badge/davidgerardoperez525-collaborator-2d5131?style=flat-square&logo=github&logoColor=white)](https://github.com/davidgerardoperez525)
 
 
 
